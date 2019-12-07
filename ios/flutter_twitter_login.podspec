@@ -18,6 +18,6 @@ A Flutter plugin for allowing users to authenticate with native Android &amp; iO
   s.dependency 'TwitterKit',"~> 3.4.2"
   s.dependency 'TwitterCore',"~> 3.2.0"
   s.static_framework = true
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '13.0'
 end
 
